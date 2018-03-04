@@ -14,7 +14,7 @@ Lesson one helpful links:
   
 - Neural Net Universality Theorem: 
   - http://neuralnetworksanddeeplearning.com/chap4.html
-  - An easily digestible proof that neural networks have the ability to approximate any function.
+  - An easily digestible proof that neural networks have the ability to approximate any function. The article also goes pretty deep on a qualitative level into the "how" of approximating functions with neural networks, and has a couple genius widgets with visualizations of how data and weights move throughout a neural network. I thought this was an incredibly well put together piece.
   
 - Linear Algebra for CNN Cheatsheet: 
   - https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c
