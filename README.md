@@ -3,7 +3,7 @@ Code repository for my adventures in the Fast.ai; application of neural networks
 
 While the links below are also retrievable from the Fast.ai course itself, I'm keeping a list of the ones that I personally have reviewed during the learning process.
 
-$\textbf{Lesson one helpful links:}$
+Lesson one helpful links:
 - CNN Wikipedia: 
   - https://en.wikipedia.org/wiki/Convolutional_neural_network
   - A bit of a cliche, the journey starts with getting your feet wet with the basal definition of what a convolutional neural network is.
